@@ -1,4 +1,8 @@
-# 🚀 ZWIX v2.0
+<h1 align="center">🌊 ZWIX v1.0</h1>
+
+<div align="center">
+  <img  src="https://i.imgur.com/kZMAedX.png">
+  <p align="center">
 
 ## 🇬🇧 ENGLISH
 
